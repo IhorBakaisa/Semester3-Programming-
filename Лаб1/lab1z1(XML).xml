@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<studentList>
+    <student ID="1">
+        <name>Петро Паращак</name>
+        <className>Радуга</className>
+        <rating1>4</rating1>
+        <rating2>3</rating2>
+        <ratung3>4<ratung3>
+    </student>
+    <student ID="2">
+        <name>Олександр Яцик</name>
+        <className>Мудрі</className>
+        <rating1>5</rating1>
+        <rating2>5</rating2>
+        <ratung3>5<ratung3>
+    </student>
+    <student ID="3">
+        <name>Станіслав Булеца</name>
+        <className>Ковбой</className>
+        <rating1>3</rating1>
+        <rating2>5</rating2>
+        <ratung3>4<ratung3>
+    </student>
+    <student ID="4">
+        <name>Владислав Гаврилешко</name>
+        <className>Садочок</className>
+        <rating1>2</rating1>
+        <rating2>3</rating2>
+        <ratung3>2<ratung3>
+    </student>
+    <student ID="5">
+        <name>Владислав Готра</name>
+        <className>Геймери</className>
+        <rating1>2</rating1>
+        <rating2>2</rating2>
+        <ratung3>5<ratung3>
+    </student>
+</studentList>
